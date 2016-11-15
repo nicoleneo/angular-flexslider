@@ -1,6 +1,6 @@
 {
 	"name": "angular-flexslider",
-	"version": "1.3.3",
+	"version": "1.3.4",
 	"main": "./angular-flexslider.js",
 	"dependencies": {
 		"angular": "~1.3",
@@ -11,6 +11,6 @@
 	"description": "AngularJS wrapper for Flexslider",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/thenikso/angular-flexslider.git"
+		"url": "git://github.com/nicoleneo/angular-flexslider.git"
 	}
 }
